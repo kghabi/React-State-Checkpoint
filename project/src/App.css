@@ -1,0 +1,30 @@
+.main {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.image{
+  width: 230px;
+  height: 300px;
+  margin: 20px;
+  border-radius: 60px;
+  border: red solid 0.5px;
+  color: blanchedalmond;
+}
+.container{
+  border: rgb(224, 17, 17) solid 1px;
+  margin: 10px;
+  padding: 5px;
+  background-color: #2d3441;
+}
+h1,h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:large;
+  ;
+}
